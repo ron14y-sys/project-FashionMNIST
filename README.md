@@ -6,8 +6,9 @@ This project implements a machine learning classification flow on the Fashion-MN
 Classify clothing images into 10 categories using a supervised learning model.
 
 ## Dataset
-Fashion-MNIST contains 28x28 grayscale images of clothing items.
-Each image belongs to one of 10 classes.
+The dataset used in this project is Fashion-MNIST:
+https://www.kaggle.com/datasets/zalando-research/fashionmnist
+It contains 28x28 grayscale images of clothing items divided into 10 classes.
 
 ## Methods
 - Data loading and exploration
